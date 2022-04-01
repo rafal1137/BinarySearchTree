@@ -1,3 +1,5 @@
+#include "bst.h"
+
 // Driver code
 int main() {
   struct node *root = NULL;
